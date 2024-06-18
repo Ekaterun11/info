@@ -8,11 +8,9 @@ body {
     font-weight: 400;
 }
 #ant-section__ant006_header {
-    background: #fff;
-    padding: 20px 0;
+    background: #414141;
     position: relative;
-    border-bottom:1px solid #ddd;
-    /* box-shadow: 0 2px 5px #00001a; */
+    border-bottom:1px solid #414141;
 }
 
 #ant-section__ant006_header .ant006_header-menu-wrap {
@@ -22,13 +20,13 @@ body {
 }
 
 .ant006_header-logo {
-    min-height: 65px;
+    min-height: 60px;
     align-items: center;
     display: flex;
 }
 
 .ant006_header-logo a {
-    color: #000;
+    color: #c9c9c9;
     font-size: 37px;
     font-weight: bold;
 }
@@ -44,7 +42,7 @@ nav.ant006_header-container > ul {
 }
 
 nav.ant006_header-container li a {
-    color: #333;
+    color: #ffffff;
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 0.3px;
@@ -54,7 +52,7 @@ nav.ant006_header-container li a {
 }
 
 nav.ant006_header-container li a:hover {
-    color: #2668b9;
+    color: #bdbdbd;
     text-decoration: none;
 }
 
@@ -67,7 +65,7 @@ nav.ant006_header-container > ul li {
 }
 
 nav.ant006_header-container > ul > li > .sub-menu {
-    background: #fff;
+    background: #e4e4e4;
     right: 10px;
     opacity: 0;
     filter: alpha(opacity=0);
@@ -114,7 +112,7 @@ nav.ant006_header-container li .sub-menu li:last-child a {
 }
 
 nav.ant006_header-container li .sub-menu a:hover {
-    color: #2668b9;
+    color: #878787;
     text-decoration: none;
 }
 

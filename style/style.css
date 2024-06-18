@@ -278,3 +278,14 @@ img.aligncenter {
 .button input[type="button"]:hover {
   background: rgb(0, 0, 207);
 }
+
+section.ant-section__ant000_devider {
+    width: 100%;
+    padding: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    background: #f1f1f1;
+    color: #e2e2e2;
+    letter-spacing: 10px;
+}
